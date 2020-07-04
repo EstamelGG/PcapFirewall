@@ -1,0 +1,6 @@
+QComboBox QAbstractItemView::item {
+    height: 30px;
+}
+
+
+ui->comboBox->setView(new  QListView());
